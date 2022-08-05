@@ -20,3 +20,9 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![Profile views](https://gpvc.arturio.dev/viharasenindu22)](https://github.com/viharasenindu22)
 - [![GitHub followers](https://img.shields.io/github/followers/ViharSenindu22.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu22?tab=followers)
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=viharasenindu22)](https://github.com/viharasenindu22)
+
+<h2>Contributions 📈</h2>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viharasenindu22" alt="viharasenindu22"></p>
+
+<a href="https://github.com/viharasenindu22"><img alt="Vihara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viharasenindu22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
