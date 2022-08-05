@@ -18,5 +18,5 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 </h2>
 
 - [![Profile views](https://gpvc.arturio.dev/viharasenindu22)](https://github.com/viharasenindu22)
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu22?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/ViharSenindu22.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu22?tab=followers)
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=viharasenindu22)](https://github.com/viharasenindu22)
