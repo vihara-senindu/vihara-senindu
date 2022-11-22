@@ -22,6 +22,15 @@
 
 <a href="https://github.com/viharasenindu"><img alt="Vihara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viharasenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
+
+
+<a href="https://www.instagram.com/Vihara_Senindu" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100086544155272" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/VSenindu" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>  
+
+
 <h2>Github Status
 </h2>
 
