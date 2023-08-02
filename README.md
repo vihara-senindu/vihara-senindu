@@ -10,8 +10,6 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me: viharasenindu22@gmail.com;
-
 
 <h2>Stats 📊</h2>
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu&theme=dracula&count_private=true"></div>
