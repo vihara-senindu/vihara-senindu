@@ -28,9 +28,4 @@
 </p>  
 
 
-<h2>Github Status
-</h2>
 
-- [![Profile views](https://gpvc.arturio.dev/viharasenindu)](https://github.com/viharasenindu)
-- [![GitHub followers](https://img.shields.io/github/followers/ViharSenindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu?tab=followers)
-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=viharasenindu)](https://github.com/viharasenindu)
