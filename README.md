@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python And Pyrogram;
 
-- 🤔 I’m looking for help with Software Developing 😭;
+- 🤔 I’m looking for help with Software Developing ;
 
 - 💬 Ask me about anything, I am happy to help;
 
