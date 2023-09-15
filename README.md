@@ -36,13 +36,13 @@
 <br>
 <div>
 <h2>📈 Stats</h2>
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu&theme=dracula&count_private=true"></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=dracula&count_private=true"></div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vihara-senindu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nipuni-udari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihara-senindu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vihara-senindu/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
