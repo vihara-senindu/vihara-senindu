@@ -60,4 +60,4 @@
 </p>
 <br>
 
-⭐️ From [Vihara-Senindu](https://github.com/viharasenindu)
+⭐️ From [Vihara-Senindu](https://github.com/vihara-senindu)
