@@ -81,3 +81,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=vihara-senindu&color=23D18B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/vihara-senindu/vihara-senindu/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
