@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=280&section=header&text=Vihara%20Senindu&fontSize=80&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20%26%20Software&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23D18B,100:0d1117&height=280&section=header&text=Vihara%20Senindu&fontSize=80&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20%26%20Software&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
         <h3>📊 <span style="color: #23D18B">Command Center</span></h3>
         <img src="https://github-readme-stats.vercel.app/api?username=vihara-senindu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=23D18B&icon_color=37ebf3" alt="stats" width="100%" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihara-senindu&theme=tokyonight&hide_border=true&background=0d1117&ring=23D18B&currStreakLabel=23D18B" alt="streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=vihara-senindu&theme=tokyonight&hide_border=true&background=0d1117&ring=23D18B&currStreakLabel=23D18B" alt="streak" width="100%" />
       </div>
     </td>
     <td width="50%" valign="top">
@@ -51,7 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=5&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D18B,100:0d1117&height=5&width=100%"/>
   <br/><br/>
   <a href="https://linkedin.com/in/vihara-senindu-11a14a284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
