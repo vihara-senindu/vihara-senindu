@@ -1,60 +1,83 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hi, I'm Vihara Senindu 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"/>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=280&section=header&text=Vihara%20Senindu&fontSize=80&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20%26%20Software&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
+</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor+from+Sri+Lanka" />
-</h3>
-
-<p align="center">
-  <img src="code.gif" width="500" />
-</p>
-
----
-
-<!-- ABOUT ME -->
-<h2>👨🏻‍💻 About Me</h2>
-
-<p>
-🔭 I'm <b>Vihara Senindu</b>, a passionate self-taught full-stack web developer from <b>Sri Lanka</b>.  
-I love dreaming up ideas and turning them into real-world applications with elegant UI and clean architecture.
-</p>
-
-<p>
-✍️ Open-source enthusiast & contributor — I enjoy learning, collaborating, and growing with the developer community.
-</p>
-
----
-
-<!-- QUICK LINKS -->
-<h2>🌐 Quick Links</h2>
-
-<p align="center">
-  <a href="http://www.viharasenindu.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%9B%A0%EF%B8%8F;Creative+Thinker+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-<!-- SKILLS -->
-<h2>🛠 Languages & Tools</h2>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 <span style="color: #23D18B">Command Center</span></h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=vihara-senindu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=23D18B&icon_color=37ebf3" alt="stats" width="100%" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihara-senindu&theme=tokyonight&hide_border=true&background=0d1117&ring=23D18B&currStreakLabel=23D18B" alt="streak" width="100%" />
+      </div>
+    </td>
 
-```text
-💻 Programming      : Python | JavaScript  
-🌐 Frontend         : React | HTML | CSS | Bootstrap  
-🧩 Backend          : Node.js | MERN Stack  
-🛢 Databases        : MongoDB | MySQL | Firebase  
-🔧 Tools            : Git | VS Code | Postman | Google Colab  
-🎨 Design           : Adobe XD | Illustrator | Photoshop | Canva
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛠️ <span style="color: #23D18B">The Arsenal</span></h3>
+        
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,bootstrap,sass&perline=4&theme=dark" />
+        </a>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb,mysql,firebase,postman&perline=4&theme=dark" />
+        </a>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,ps,ai,linux&perline=4&theme=dark" />
+        </a>
+        
+        <br/><br/>
+        
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihara-senindu&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=23D18B" alt="languages" width="100%"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+<div align="center">
+  <h3>🏆 <span style="color: #23D18B">Achievements Unlocked</span></h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+</div>
 
-<!-- ICON STACK --> <h2>🚀 Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,firebase,git,bootstrap,figma,vscode,redux,sass,photoshop,illustrator" /> </p>
-<!-- STATS --> <h2>📈 GitHub Stats</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=dracula&margin-w=10" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vihara-senindu&show_icons=true&count_private=true&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihara-senindu&layout=compact&bg_color=151515&text_color=daf7dc" /> </p>
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=5&width=100%"/>
+  <br/><br/>
+  
+  <a href="https://linkedin.com/in/vihara-senindu-11a14a284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vsenidnu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vihara_senindu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/viharasenindu" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="http://www.viharasenindu.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="mailto:viharasenindu22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<!-- CONNECT --> <h2>🤝🏻 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/vihara-senindu-11a14a284/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://twitter.com/vsenidnu" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/> </a> <a href="https://www.behance.net/viharasenindu" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/> </a> <a href="https://www.youtube.com/@viharasenindu/videos" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/> </a> <a href="https://www.instagram.com/vihara_senindu/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a> <a href="mailto:viharasenindu22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
-<p align="center"> ⭐️ From <a href="https://github.com/vihara-senindu">Vihara Senindu</a> </p> ```
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=vihara-senindu&color=23D18B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
