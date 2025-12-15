@@ -20,11 +20,9 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihara-senindu&theme=tokyonight&hide_border=true&background=0d1117&ring=23D18B&currStreakLabel=23D18B" alt="streak" width="100%" />
       </div>
     </td>
-
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛠️ <span style="color: #23D18B">The Arsenal</span></h3>
-        
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,bootstrap,sass&perline=4&theme=dark" />
         </a>
@@ -36,9 +34,7 @@
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,ps,ai,linux&perline=4&theme=dark" />
         </a>
-        
         <br/><br/>
-        
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihara-senindu&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=23D18B" alt="languages" width="100%"/>
       </div>
     </td>
@@ -57,7 +53,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=5&width=100%"/>
   <br/><br/>
-  
   <a href="https://linkedin.com/in/vihara-senindu-11a14a284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -76,9 +71,7 @@
   <a href="mailto:viharasenindu22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <br/><br/>
-  
   <img src="https://komarev.com/ghpvc/?username=vihara-senindu&color=23D18B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
