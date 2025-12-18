@@ -109,11 +109,13 @@
 ---
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
-
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=radical&no-frame=true&row=1&column=4"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=radical&no-frame=true&row=1&column=3"
+    alt="GitHub Achievements"
+  />
 </p>
 
 ---
