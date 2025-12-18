@@ -108,35 +108,26 @@
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## 🏆 Achievements  
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vihara-senindu&theme=radical&no-frame=true&row=1&column=3"
-    alt="GitHub Achievements"
-  />
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="http://www.viharasenindu.me">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"/>
-  </a>
-  <a href="www.linkedin.com/in/vihara-senindu-11a14a284">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vihara-senindu-11a14a284">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:viharasenindu22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+
 ---
+
+
 
 ## 👀 Profile Views  
 
