@@ -118,16 +118,6 @@
 
 ---
 
-<!-- ===================== GITHUB ACTIONS ===================== -->
-
-## 🤖 GitHub Actions  
-
-<p align="center">
-  <img src="https://github.com/vihara-senindu/vihara-senindu/actions/workflows/blog-post-workflow.yml/badge.svg"/>
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me  
@@ -136,10 +126,10 @@
   <a href="http://www.viharasenindu.me">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="www.linkedin.com/in/vihara-senindu-11a14a284">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:viharasenindu22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
